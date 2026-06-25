@@ -21,6 +21,7 @@ ai-library/
 
 | Skill           | Description                                                              |
 | --------------- | ------------------------------------------------------------------------ |
+| create-issue    | Creates structured repo issues from a TEMPLATE.md or bundled default     |
 | domain-transfer | Domain registration migration between providers while keeping sites live |
 
 ### Skill Anatomy
